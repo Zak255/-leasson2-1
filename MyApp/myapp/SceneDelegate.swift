@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  MyApp
+//  myapp
 //
 //  Created by Zakir on 07.07.2021.
 //
